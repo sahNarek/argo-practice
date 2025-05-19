@@ -3,4 +3,4 @@ replicas: 5
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is on the DEV environment and works on auto sync trying again )!'
+    CUSTOM_HEADER: 'This is on the DEV environment and works on auto sync trying again ) testing webhooks!'
